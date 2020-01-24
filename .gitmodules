@@ -3,4 +3,4 @@
 	url = git@github.com:pincom15/rock.git
 [submodule "banana"]
 	path = banana
-	url = https://github.com/pincom15/blindside-work
+	url = git@github.com/pincom15/blindside-work
