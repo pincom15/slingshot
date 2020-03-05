@@ -4,3 +4,6 @@
 [submodule "banana"]
 	path = banana
 	url = git@github.com/pincom15/blindside-work
+[submodule "sdk/amazon-kinesis-video-streams-webrtc-sdk-c"]
+	path = sdk/amazon-kinesis-video-streams-webrtc-sdk-c
+	url = https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c.git
